@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Payment failure",
+    "description": "Customer payment is failing",
+    "status": "open",
+    "priority": "critical",
+    "reporter_id": 1
+  },
+  {
+    "id": 2,
+    "title": "UI alignment issue",
+    "description": "Button alignment is slightly off",
+    "status": "open",
+    "priority": "low",
+    "reporter_id": 1
+  },
+  {
+    "id": 3,
+    "title": "Login button not working",
+    "description": "Users cannot click the login button",
+    "status": "open",
+    "priority": "critical",
+    "reporter_id": 1
+  },
+  {
+    "id": 10,
+    "title": "Login button not working",
+    "description": "Users cannot click the login button",
+    "status": "open",
+    "priority": "critical",
+    "reporter_id": 1
+  }
+]
